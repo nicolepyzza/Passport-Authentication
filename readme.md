@@ -8,7 +8,9 @@ When joining a new team, you will be expected to inspect a lot of code that you 
 ### User Story
 ```
 AS A developer
+
 I WANT a walk-through of the codebase
+
 SO THAT I can use it as a starting point for a new project
 ```
 
