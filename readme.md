@@ -14,7 +14,7 @@ SO THAT I can use it as a starting point for a new project
 
 ### Licenses
 ```
-
+ISC
 ```
 
 ### Contributors
